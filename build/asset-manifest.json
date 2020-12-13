@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/pui_web/static/css/main.b6e2c603.chunk.css",
+    "main.js": "/pui_web/static/js/main.a2c26d52.chunk.js",
+    "main.js.map": "/pui_web/static/js/main.a2c26d52.chunk.js.map",
+    "runtime-main.js": "/pui_web/static/js/runtime-main.ffc4e7cf.js",
+    "runtime-main.js.map": "/pui_web/static/js/runtime-main.ffc4e7cf.js.map",
+    "static/js/2.c7fcd022.chunk.js": "/pui_web/static/js/2.c7fcd022.chunk.js",
+    "static/js/2.c7fcd022.chunk.js.map": "/pui_web/static/js/2.c7fcd022.chunk.js.map",
+    "index.html": "/pui_web/index.html",
+    "precache-manifest.ee558e0c3a7db1e30c7c0de261565256.js": "/pui_web/precache-manifest.ee558e0c3a7db1e30c7c0de261565256.js",
+    "service-worker.js": "/pui_web/service-worker.js",
+    "static/css/main.b6e2c603.chunk.css.map": "/pui_web/static/css/main.b6e2c603.chunk.css.map",
+    "static/js/2.c7fcd022.chunk.js.LICENSE.txt": "/pui_web/static/js/2.c7fcd022.chunk.js.LICENSE.txt",
+    "static/media/Venn.png": "/pui_web/static/media/Venn.205bf35a.png",
+    "static/media/adderall.jpg": "/pui_web/static/media/adderall.2a3eb4fd.jpg",
+    "static/media/adhdBrain.jpg": "/pui_web/static/media/adhdBrain.4e3983c9.jpg",
+    "static/media/adhdWoman.png": "/pui_web/static/media/adhdWoman.12ebf26e.png",
+    "static/media/adhd_girl.jpg": "/pui_web/static/media/adhd_girl.61982907.jpg",
+    "static/media/cbt.png": "/pui_web/static/media/cbt.ee3d6c38.png",
+    "static/media/cloud1.png": "/pui_web/static/media/cloud1.1d2189b5.png",
+    "static/media/cloud2.png": "/pui_web/static/media/cloud2.88ecc572.png",
+    "static/media/cloud3.png": "/pui_web/static/media/cloud3.9cfee12d.png",
+    "static/media/cloud4.png": "/pui_web/static/media/cloud4.23beb746.png",
+    "static/media/cloud5.png": "/pui_web/static/media/cloud5.b54e0512.png",
+    "static/media/cryingMan.png": "/pui_web/static/media/cryingMan.33cfcfa1.png",
+    "static/media/dopamine.png": "/pui_web/static/media/dopamine.9daab62d.png",
+    "static/media/group.png": "/pui_web/static/media/group.f0fcb9d1.png",
+    "static/media/main_1.png": "/pui_web/static/media/main_1.84365689.png",
+    "static/media/s3Title.png": "/pui_web/static/media/s3Title.e3e2faa0.png",
+    "static/media/strattera.jpg": "/pui_web/static/media/strattera.d4cabf40.jpg",
+    "static/media/type1.png": "/pui_web/static/media/type1.92ebc5ba.png",
+    "static/media/type2.png": "/pui_web/static/media/type2.ee4a2466.png",
+    "static/media/wellbutrin.png": "/pui_web/static/media/wellbutrin.d1a690a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffc4e7cf.js",
+    "static/js/2.c7fcd022.chunk.js",
+    "static/css/main.b6e2c603.chunk.css",
+    "static/js/main.a2c26d52.chunk.js"
+  ]
+}
